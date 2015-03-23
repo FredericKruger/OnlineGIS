@@ -1,0 +1,2 @@
+serviceClass: de.netze.onlinegis.client.retriever.RetrieveElectricNetworkService
+path: 58461727331BC1617AE26C41F8A63653.gwt.rpc

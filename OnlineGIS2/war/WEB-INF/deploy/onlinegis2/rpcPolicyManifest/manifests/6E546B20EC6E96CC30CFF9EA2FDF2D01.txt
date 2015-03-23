@@ -1,0 +1,2 @@
+serviceClass: de.netze.onlinegis.client.retriever.RetrieveGemeindeService
+path: A6B4F020C6FCC05A69331E68CAA30804.gwt.rpc

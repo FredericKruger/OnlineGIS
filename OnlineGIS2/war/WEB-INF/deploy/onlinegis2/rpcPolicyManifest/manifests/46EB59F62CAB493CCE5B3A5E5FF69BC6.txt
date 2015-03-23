@@ -1,0 +1,2 @@
+serviceClass: de.netze.onlinegis.client.retriever.RetrieveStationService
+path: B604E049684630F54EBEAAD54D538A33.gwt.rpc

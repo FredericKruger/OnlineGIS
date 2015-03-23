@@ -1,0 +1,5 @@
+# Module onlinegis2
+# RPC service class, partial path of RPC policy file
+de.netze.onlinegis.client.retriever.RetrieveStationService, B604E049684630F54EBEAAD54D538A33.gwt.rpc
+de.netze.onlinegis.client.retriever.RetrieveGemeindeService, A6B4F020C6FCC05A69331E68CAA30804.gwt.rpc
+de.netze.onlinegis.client.retriever.RetrieveElectricNetworkService, 58461727331BC1617AE26C41F8A63653.gwt.rpc
